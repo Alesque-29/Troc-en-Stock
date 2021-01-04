@@ -47,5 +47,5 @@ Règles d'utilisation:
    
 - Enchères:  
   L'utilisateur doit avoir suffisamment de points pour pouvoir enchérir sur un objet  
-  Si pas encore d'enchère sur l'objet, l'enchère minimum sera la mise à prix + 1  
-  Si déjà des enchères en cours, la nouvelle enchère sera au minimum équivalente à l'enchère la plus élevée + 1  
+  Si pas encore d'enchère sur l'objet, l'enchère minimum sera la mise à prix + 1 points  
+  Si déjà des enchères en cours, la nouvelle enchère sera au minimum équivalente à l'enchère la plus élevée + 1 points  
