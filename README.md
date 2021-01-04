@@ -10,6 +10,7 @@ Pour exécuter le projet:
 -> Pour chaque base de données, accéder à la table, onglet "importer", puis importer le fichier .sql correspondant  
   
 Règles d'utilisation:  
+  
  Compte utilisateur:  
    
  Ventes:  
