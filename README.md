@@ -12,7 +12,16 @@ Pour exécuter le projet:
 Règles d'utilisation:  
   
 - Page d'accueil:  
-  
+  Affichage de tous les objets dont la date de fin d'enchères n'est pas encore dépassée (à la nanoseconde près)  
+  N'affiche pas les objets vendus par l'utilisateur courant si celui-ci est authentifié  
+  Possibilité de trier les objets par catégorie  
+  Possible d'accéder aux détails d'un objet en vente sans être authentifié, mais authentification obligatoire pour pouvoir enchèrir  
+    
+- Barre de navigation:  
+  Transformation du bouton "S'inscrire/Se connecter" lors de l'authentification de l'utilisateur (Bienvenue + pseudo)  
+  Après la connexion/inscription, les onglets "Mes ventes" et "Mes enchères" n'apparaissent que si l'utilisateur courant est vendeur et/ou enchèrisseur  
+  L'onglet "Déconnexion" supprime tous les éléments stockés en session utilisateur  
+    
 - Compte utilisateur:  
    
 - Ventes:  
