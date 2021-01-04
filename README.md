@@ -17,6 +17,7 @@ Pour exécuter le projet:
 -> Mot de passe: mot-magique  
 -> Pour chaque base de données, accéder à la table, onglet "importer", puis importer le fichier .sql correspondant  
 6. Dans le navigateur, entrer "localhost:8080", pour accéder à la page d'accueil de Troc-en-Stock  
+La connexion a un compte utilisateur se fait avec l'adresse email et le mot de passe est toujours Pa$$w0rd  
   
 Règles d'utilisation:  
   
