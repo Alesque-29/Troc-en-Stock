@@ -5,7 +5,7 @@ Application de ventes aux enchères:
 - API REST + Mariadb (conteneurs séparés) pour chaque microservice
 - PhpMyAdmin pour contrôler chaque base de données
 - docker-compose de 8 conteneurs au total
-- UI avec Angular (HttpClient, Observables, Directives, Services, Router, Guards...)
+- Interface utilisateur avec Angular (HttpClient, Observables, Directives, Services, Router, Guards...)
   
 Pour exécuter le projet:  
 1. Installer Docker ( https://docs.docker.com/get-docker/ )  
