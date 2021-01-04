@@ -11,6 +11,8 @@ Pour exécuter le projet:
   
 Règles d'utilisation:  
   
+La page d'accueil
+  
 - Compte utilisateur:  
    
 - Ventes:  
