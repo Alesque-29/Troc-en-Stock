@@ -8,7 +8,7 @@ Application de ventes aux enchères:
 - UI avec Angular (HttpClient, Observables, Directives, Services, Router, Guards...)
   
 Pour exécuter le projet:  
-1. Installer Docker CE pour Mac ou Windows ( http://docker.com )  
+1. Installer Docker ( https://docs.docker.com/get-docker/ )  
 2. Créer un dossier "Troc-en-Stock"  
 3. Télécharger les fichiers du dépôt Github (ArticleVendu.sql, docker-compose.yml, Enchere.sql, Utilisateur.sql) et les enregistrer dans le dossier "Troc-en-Stock"  
 4. En ligne de commande, se positionner dans "Troc-en-Stock", puis exécuter la commande "docker-compose up -d"  
