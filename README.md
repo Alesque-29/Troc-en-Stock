@@ -11,7 +11,7 @@ Pour exécuter le projet:
   
 Règles d'utilisation:  
   
-La page d'accueil
+- Page d'accueil:  
   
 - Compte utilisateur:  
    
