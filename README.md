@@ -10,7 +10,7 @@ Application de ventes aux enchères:
 Pour exécuter le projet:  
 1. Installer Docker ( https://docs.docker.com/get-docker/ )  
 2. Créer un dossier "Troc-en-Stock"  
-3. Télécharger les fichiers du dépôt Github (ArticleVendu.sql, docker-compose.yml, Enchere.sql, Utilisateur.sql) et les enregistrer dans le dossier "Troc-en-Stock"  
+3. Télécharger les fichiers du dépôt Github (ArticleVendu.sql, Enchere.sql, Utilisateur.sql, docker-compose.yml) et les enregistrer dans le dossier "Troc-en-Stock"  
 4. En ligne de commande, se positionner dans "Troc-en-Stock", puis exécuter la commande "docker-compose up -d"  
 5. Dans le navigateur, entrer "localhost:8181", pour se connecter à phpmyadmin et importer des données:  
 -> Utilisateur: root  
