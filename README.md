@@ -35,7 +35,7 @@ Règles d'utilisation:
   Après la création d'un compte, possibilité de modifier les champs sauf "Pseudo", "Nom", "Prénom" et "Points"  
   Crédit de 100 points attribué automatiquement lors de la création du compte  
   Après la suppression du compte, retour automatique sur la page d'accueil 5 secondes après l'affichage de la suppression  
-  Lorsque l'utilisateur consulye ses ventes et/ou ses enchères, possibilité de tri "en cours" et "terminées"  
+  Lorsque l'utilisateur consulte ses ventes et/ou ses enchères, possibilité de trier celles "en cours" et "terminées"  
   Si une vente est terminée, le prix de vente correspond à l'enchère la plus elevé + affichage du pseudo de l'acquéreur  
   Si une enchère est terminée, l'affichage est différent si l'utilisateur a remporté la vente ou non  
    
