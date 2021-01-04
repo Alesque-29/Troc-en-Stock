@@ -11,9 +11,9 @@ Pour exécuter le projet:
   
 Règles d'utilisation:  
   
- Compte utilisateur:  
+  Compte utilisateur:  
    
- Ventes:  
+  Ventes:  
    
- Enchères:  
+  Enchères:  
  
