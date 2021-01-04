@@ -1,4 +1,12 @@
 # Troc-en-Stock  
+Application de ventes aux enchères:
+- Architecture microservices
+- exécutables natifs avec GraalVM
+- API REST + Mariadb (conteneurs séparés) pour chaque microservice
+- PhpMyAdmin pour contrôler chaque base de données
+- docker-compose de 8 conteneurs au total
+- UI avec Angular (HttpClient, Observables, Directives, Services, Router, Guards...)
+  
 Pour exécuter le projet:  
 1. Installer Docker CE pour Mac ou Windows ( http://docker.com )  
 2. Créer un dossier "Troc-en-Stock"  
