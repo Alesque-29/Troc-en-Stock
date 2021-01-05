@@ -1,4 +1,4 @@
-# Troc-en-Stock  
+# Troc-en-Stock -> Quarkus (Java) + Angular  
 Application de ventes aux enchères:
 - Architecture microservices
 - exécutables natifs avec GraalVM
