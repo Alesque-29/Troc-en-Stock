@@ -2,7 +2,7 @@
 Application de ventes aux enchères:
 - Architecture microservices
 - exécutables natifs avec GraalVM
-- API REST + Mariadb (conteneurs séparés) pour chaque microservice
+- API REST avec Quarkus + Mariadb (conteneurs séparés) pour chaque microservice
 - PhpMyAdmin pour contrôler chaque base de données
 - docker-compose de 8 conteneurs au total
 - Interface utilisateur avec Angular (HttpClient, Observables, Directives, Services, Router, Guards...)
