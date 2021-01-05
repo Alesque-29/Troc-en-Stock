@@ -4,8 +4,8 @@ Application de ventes aux enchères:
 - API REST avec Quarkus + Mariadb (conteneurs séparés) pour chaque microservice
 - exécutables natifs avec GraalVM
 - PhpMyAdmin pour contrôler chaque base de données
-- docker-compose de 8 conteneurs au total
 - Interface utilisateur avec Angular (HttpClient, Observables, Directives, Services, Router, Guards...)
+- docker-compose de 8 conteneurs au total
   
 Pour exécuter le projet:  
 1. Installer Docker ( https://docs.docker.com/get-docker/ )  
